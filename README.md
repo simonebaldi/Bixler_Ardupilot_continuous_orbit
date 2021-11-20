@@ -1,4 +1,4 @@
-# Bixler_Ardupilot_continuous_orbit
+# Bixler_Ardupilot_orbit
 
 This is a Matlab implementation of an ArduPilot low level controller (i.e. roll, pitch, yaw and total energy control system) combined with a vector field guidance law.
 
